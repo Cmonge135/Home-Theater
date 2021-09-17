@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    background-color: #2e3135;
+    display: flex;
+    padding: 1rem;
+}
+
+.search {
+    background-color: transparent;
+    padding: 0.5rem 1rem;
+    border: 2px solid #3f658b;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 1rem;
+    outline: transparent;
+}
